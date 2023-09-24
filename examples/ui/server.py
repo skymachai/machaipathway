@@ -1,3 +1,5 @@
+env use 3.10
+
 import os
 
 import requests
